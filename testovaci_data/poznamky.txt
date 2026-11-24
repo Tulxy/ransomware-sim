@@ -1,0 +1,3 @@
+Výuková data pro simulaci ransomwaru.
+Třída 3. IT, ukázkový projekt bez osobních údajů.
+Po dešifrování musí být tento text obnoven beze změny.

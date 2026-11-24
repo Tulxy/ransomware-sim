@@ -1,0 +1,9 @@
+**
+!Dockerfile
+!requirements.txt
+!simulace/
+!simulace/encrypt.py
+!simulace/decrypt.py
+!simulace/ransom_note.html
+!testovaci_data/
+!testovaci_data/**
